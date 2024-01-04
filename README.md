@@ -34,14 +34,7 @@ To run this application locally, follow these steps:
     ```bash
     cd qr-code-generator
     ```
-
-3. Install the required dependencies:
-
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-4. Run the Streamlit app:
+3. Run the Streamlit app:
 
     ```bash
     streamlit run app.py
